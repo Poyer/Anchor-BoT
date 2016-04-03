@@ -2,8 +2,7 @@ do
 
 function run(msg, matches)
   return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout http://git.io/6jdjGg
-  GNU GPL v2 license.]]
+ (Anchor-Bot) v.1 \n @AnchorGroup]]
 end
 
 return {

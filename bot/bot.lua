@@ -205,7 +205,22 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-      "9gag",
+    "Add-admin",
+    "Dawnload",
+    "Del",
+    "Kick",
+    "Kickme",
+    "LockFlood",
+    "Rebot",
+    "Reply",
+    "Super",
+    "User",
+    "about",
+    "idreply",
+    "info",
+    "kickme",
+    "plugin",
+     "9gag",
       "eur",
       "echo",
       "btc",
